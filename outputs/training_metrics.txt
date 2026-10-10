@@ -1,0 +1,15 @@
+Rows: 2500
+Test accuracy: 1.0000
+
+              precision    recall  f1-score   support
+
+      attack       1.00      1.00      1.00       250
+      normal       1.00      1.00      1.00       250
+
+    accuracy                           1.00       500
+   macro avg       1.00      1.00      1.00       500
+weighted avg       1.00      1.00      1.00       500
+
+Confusion matrix:
+[[250   0]
+ [  0 250]]
